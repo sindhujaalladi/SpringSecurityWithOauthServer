@@ -19,3 +19,13 @@ using the access token able to add data in database and retreieved data from dat
 ![image](https://user-images.githubusercontent.com/115841974/203218170-31297b6e-5ccd-4e2a-a0af-2a97e8410c6c.png)
 
 
+above process has be done using grant type as password but when am trying to use grant type as authorization code to get access token its fialing at login page itself 
+![image](https://user-images.githubusercontent.com/115841974/203218681-095ceaa4-3366-4b26-b79d-8f2c365473b7.png)
+
+if i provided authrization code in grant type it will due to not supply of code am getting invalid request 
+
+![image](https://user-images.githubusercontent.com/115841974/203218709-1056962d-0849-4c71-92b4-86e12450ca6b.png)
+![image](https://user-images.githubusercontent.com/115841974/203218971-d3e9b720-2def-4cf5-997d-beb3fdaa81b2.png)
+
+
+any help would be appreciated!!
